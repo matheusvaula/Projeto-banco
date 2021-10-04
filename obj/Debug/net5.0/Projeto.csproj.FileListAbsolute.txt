@@ -1,0 +1,16 @@
+c:\Users\Matheus\Documents\Projeto\bin\Debug\net5.0\Projeto.exe
+c:\Users\Matheus\Documents\Projeto\bin\Debug\net5.0\Projeto.deps.json
+c:\Users\Matheus\Documents\Projeto\bin\Debug\net5.0\Projeto.runtimeconfig.json
+c:\Users\Matheus\Documents\Projeto\bin\Debug\net5.0\Projeto.runtimeconfig.dev.json
+c:\Users\Matheus\Documents\Projeto\bin\Debug\net5.0\Projeto.dll
+c:\Users\Matheus\Documents\Projeto\bin\Debug\net5.0\ref\Projeto.dll
+c:\Users\Matheus\Documents\Projeto\bin\Debug\net5.0\Projeto.pdb
+c:\Users\Matheus\Documents\Projeto\obj\Debug\net5.0\Projeto.csproj.AssemblyReference.cache
+c:\Users\Matheus\Documents\Projeto\obj\Debug\net5.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Matheus\Documents\Projeto\obj\Debug\net5.0\Projeto.AssemblyInfoInputs.cache
+c:\Users\Matheus\Documents\Projeto\obj\Debug\net5.0\Projeto.AssemblyInfo.cs
+c:\Users\Matheus\Documents\Projeto\obj\Debug\net5.0\Projeto.csproj.CoreCompileInputs.cache
+c:\Users\Matheus\Documents\Projeto\obj\Debug\net5.0\Projeto.dll
+c:\Users\Matheus\Documents\Projeto\obj\Debug\net5.0\ref\Projeto.dll
+c:\Users\Matheus\Documents\Projeto\obj\Debug\net5.0\Projeto.pdb
+c:\Users\Matheus\Documents\Projeto\obj\Debug\net5.0\Projeto.genruntimeconfig.cache
